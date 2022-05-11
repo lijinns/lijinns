@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lijinns
 - 🌱 I’m a data science major
 - 💞️ My interests are AI, ML & NLP
-- 📫 Reach me my email at lijinns@gmail.com
+- 📫 Reach me by email at lijinns@gmail.com
 
 <!---
 lijinns/lijinns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
