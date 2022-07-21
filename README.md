@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lijinns
-- 🌱 I’m a data science major
+- 🌱 I’m a data engineer
 - 💞️ My interests are AI, ML & NLP
 - 📫 Reach me by email at lijinns@gmail.com
 
